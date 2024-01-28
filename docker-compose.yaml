@@ -4,4 +4,4 @@ services:
   web:
     image: 'ramraw/node-todo-test:latest'
     ports:
-      - "8000:8000"
+       - "8000:8000"
